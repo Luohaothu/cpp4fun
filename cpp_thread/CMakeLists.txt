@@ -1,0 +1,1 @@
+add_executable(cpp_thread cpp_thread.cpp)

@@ -1,0 +1,3 @@
+add_executable(iterate_at_compile iterate_at_compile.cpp)
+
+add_executable(double_ref_support double_ref_support.cpp)
