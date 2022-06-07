@@ -12,3 +12,5 @@ add_subdirectory(Catch2Frame)
 add_subdirectory(static_dispatch)
 
 add_subdirectory(huawei)
+
+add_subdirectory(CircleDep)
