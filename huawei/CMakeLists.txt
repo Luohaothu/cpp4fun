@@ -1,0 +1,1 @@
+add_executable(24 24.cpp)

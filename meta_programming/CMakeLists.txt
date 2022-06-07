@@ -1,3 +1,5 @@
 add_executable(iterate_at_compile iterate_at_compile.cpp)
 
 add_executable(double_ref_support double_ref_support.cpp)
+
+add_executable(member_function_as_template_parameter member_function_as_template_parameter.cpp)
