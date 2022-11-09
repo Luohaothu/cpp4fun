@@ -14,3 +14,5 @@ add_subdirectory(static_dispatch)
 add_subdirectory(huawei)
 
 add_subdirectory(CircleDep)
+
+add_subdirectory(static_register)
