@@ -16,3 +16,7 @@ add_subdirectory(huawei)
 add_subdirectory(CircleDep)
 
 add_subdirectory(static_register)
+
+add_subdirectory(dupsym)
+
+add_subdirectory(module)

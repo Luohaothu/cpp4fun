@@ -1,0 +1,1 @@
+add_executable(dupsym main.cpp A.cpp A.hpp B.cpp B.hpp C.cpp C.hpp)
